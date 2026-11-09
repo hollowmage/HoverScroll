@@ -2,7 +2,9 @@
 
 ## What is HoverScroll?
 It's a small AutoHotkey v1 script that allows the controls under the mouse cursor to scroll with the mouse wheel even if they don't have the keyboard focus. Examples: separate Notepad windows, the Windows Explorer tree, etc.
+
 (The controls obviously need to support mouse-wheel scrolling in the first place.)
+
 Originally intended for Windows XP.
 
 ## Why?
