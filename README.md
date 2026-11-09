@@ -15,7 +15,7 @@ Because Linux distros can do it out of the box and I find it to be useful.
  1. made in a hurry with standard Windows' mouse icons (with no mouse wheels anywhere in sight).
  2. one that supposedly shows the top part of a mouse with a glowing mouse wheel.
 
-You can easily edit the script to select the one you like best or, if you're so inclined, make some icons of your own. In the latter case, do remember that the system tray only displays icons with 16px x 16px, the vast majority of icon themes one can find floating around the Internet look really bad at such a small size.
+You can easily edit the script to select the one you like best or, if you're so inclined, make some icons of your own. In the latter case, do remember that the system tray only displays icons with 16px x 16px and the vast majority of icon themes one can find floating around the Internet look really bad at such a small size.
 
 ## License
 This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
